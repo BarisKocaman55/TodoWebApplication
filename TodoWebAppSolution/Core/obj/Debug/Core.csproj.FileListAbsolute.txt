@@ -1,0 +1,6 @@
+C:\Users\baris\source\repos\TodoWebAppSolution\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\TodoWebAppSolution\Core\bin\Debug\Core.dll
+C:\Users\baris\source\repos\TodoWebAppSolution\Core\bin\Debug\Core.pdb
+C:\Users\baris\source\repos\TodoWebAppSolution\Core\obj\Debug\Core.dll
+C:\Users\baris\source\repos\TodoWebAppSolution\Core\obj\Debug\Core.pdb
+C:\Users\baris\source\repos\TodoWebAppSolution\Core\obj\Debug\Core.csproj.AssemblyReference.cache

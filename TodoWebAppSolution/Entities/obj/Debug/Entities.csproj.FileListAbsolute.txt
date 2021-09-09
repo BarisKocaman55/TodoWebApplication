@@ -1,0 +1,6 @@
+C:\Users\baris\source\repos\TodoWebAppSolution\Entities\bin\Debug\Entities.dll.config
+C:\Users\baris\source\repos\TodoWebAppSolution\Entities\bin\Debug\Entities.dll
+C:\Users\baris\source\repos\TodoWebAppSolution\Entities\bin\Debug\Entities.pdb
+C:\Users\baris\source\repos\TodoWebAppSolution\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\TodoWebAppSolution\Entities\obj\Debug\Entities.dll
+C:\Users\baris\source\repos\TodoWebAppSolution\Entities\obj\Debug\Entities.pdb
